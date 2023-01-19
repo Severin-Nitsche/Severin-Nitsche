@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <a href="https://icons8.com/icon/J2E8UEzMLmcb/student"><img src="https://img.icons8.com/external-dreamcreateicons-outline-color-dreamcreateicons/64/null/external-student-museum-dreamcreateicons-outline-color-dreamcreateicons-4.png" /></a>
   <div id="badges">
-    <a href="www.rwth-aachen.de"><img src="https://img.shields.io/badge/RWTH-Student-blue?style=for-the-badge" alt="RWTH" /></a>
+    <a href="https://www.rwth-aachen.de" target="_blank"><img src="https://img.shields.io/badge/RWTH-Student-blue?style=for-the-badge" alt="RWTH" /></a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Severin-Nitsche&style=flat-square&color=blue" alt="Profile views"/>
 </div>
