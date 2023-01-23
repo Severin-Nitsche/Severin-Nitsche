@@ -3,7 +3,6 @@
   <div id="badges">
     <a href="https://www.rwth-aachen.de" target="_blank"><img src="https://img.shields.io/badge/RWTH-Student-blue?style=for-the-badge" alt="RWTH" /></a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Severin-Nitsche&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 <h1 align="center">Guten Tag 👋, ich bin Severin</h1>
 <h3 align="center">Informatik Student an der RWTH</h3>
