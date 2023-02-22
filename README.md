@@ -55,30 +55,13 @@
   </a>
 </p>
 
-<div>
-<svg
-  viewBox="0 0 500 100"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <defs>
-    <image
-      id="github-readme-stats"
-      href="https://github-readme-stats.vercel.app/api?username=severin-nitsche&amp;show_icons=true&amp;title_color=f98c02&amp;text_color=4376A3&amp;cache_seconds=1800&amp;locale=de&amp;theme=transparent"
-      height="100"
-      width="240"
-    />
-    <image
-      id="github-readme-streak-stats"
-      href="https://github-readme-streak-stats.herokuapp.com?user=Severin-Nitsche&amp;locale=de&amp;background=00000000&amp;sideNums=2379C3&amp;currStreakNum=EB5454&amp;sideLabels=4376A3&amp;dates=2F5474"
-      height="100"
-      width="252"
-    />
-  </defs>
-  <use href="#github-readme-stats"
-    x="2"
+<p align="justify">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=severin-nitsche&amp;show_icons=true&amp;title_color=f98c02&amp;text_color=4376A3&amp;cache_seconds=1800&amp;locale=de&amp;theme=transparent"
+    height="200"
+  /> 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Severin-Nitsche&amp;locale=de&amp;background=00000000&amp;sideNums=2379C3&amp;currStreakNum=EB5454&amp;sideLabels=4376A3&amp;dates=2F5474"
+    height="200"
   />
-  <use href="#github-readme-streak-stats"
-    x="246"
-  />
-</svg>
-</div>
+</p>
