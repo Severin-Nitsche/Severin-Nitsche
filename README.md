@@ -55,13 +55,28 @@
   </a>
 </p>
 
+<h3 align="left">Meine Statistiken:</h3>
 <p align="justify">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=severin-nitsche&amp;show_icons=true&amp;title_color=f98c02&amp;text_color=4376A3&amp;cache_seconds=1800&amp;locale=de&amp;theme=transparent"
-    height="200"
-  /> 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Severin-Nitsche&amp;locale=de&amp;background=00000000&amp;sideNums=2379C3&amp;currStreakNum=EB5454&amp;sideLabels=4376A3&amp;dates=2F5474"
-    height="200"
-  />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=severin-nitsche&amp;show_icons=true&amp;ring_color=f98c02&amp;text_color=67b0e4&amp;cache_seconds=1800&amp;locale=de&amp;theme=transparent&amp;hide_border=false&amp;icon_color=2379c3&amp;hide_title=true&amp;text_bold=false"
+      media="(min-width:820px)"
+      width="52.1686747%"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=severin-nitsche&amp;show_icons=true&amp;ring_color=f98c02&amp;text_color=67b0e4&amp;cache_seconds=1800&amp;locale=de&amp;theme=transparent&amp;hide_border=false&amp;icon_color=2379c3&amp;hide_title=true&amp;text_bold=false"
+      width="512"
+    />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=Severin-Nitsche&amp;locale=de&amp;background=00000000&amp;sideNums=2379C3&amp;currStreakNum=EB5454&amp;sideLabels=67b0e4&amp;dates=4376A3&amp;"
+      media="(min-width:820px)"
+      width="46.62650602%"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=Severin-Nitsche&amp;locale=de&amp;background=00000000&amp;sideNums=2379C3&amp;currStreakNum=EB5454&amp;sideLabels=67b0e4&amp;dates=4376A3"
+      width="512"
+    />
+  </picture>
 </p>
